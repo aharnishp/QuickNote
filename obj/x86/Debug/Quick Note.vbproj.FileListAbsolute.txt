@@ -1,0 +1,12 @@
+E:\Note\Quick Note\Note Lite 1.0\bin\x86\Debug\Quick Note.exe.config
+E:\Note\Quick Note\Note Lite 1.0\bin\x86\Debug\Quick Note.exe
+E:\Note\Quick Note\Note Lite 1.0\bin\x86\Debug\Quick Note.pdb
+E:\Note\Quick Note\Note Lite 1.0\bin\x86\Debug\Quick Note.xml
+E:\Note\Quick Note\Note Lite 1.0\obj\x86\Debug\Quick Note.vbprojResolveAssemblyReference.cache
+E:\Note\Quick Note\Note Lite 1.0\obj\x86\Debug\Quick_Note.Main_frm.resources
+E:\Note\Quick Note\Note Lite 1.0\obj\x86\Debug\Quick_Note.More_Frm.resources
+E:\Note\Quick Note\Note Lite 1.0\obj\x86\Debug\Quick_Note.Resources.resources
+E:\Note\Quick Note\Note Lite 1.0\obj\x86\Debug\Quick Note.vbproj.GenerateResource.Cache
+E:\Note\Quick Note\Note Lite 1.0\obj\x86\Debug\Quick Note.exe
+E:\Note\Quick Note\Note Lite 1.0\obj\x86\Debug\Quick Note.xml
+E:\Note\Quick Note\Note Lite 1.0\obj\x86\Debug\Quick Note.pdb

@@ -1,0 +1,53 @@
+E:\Note\Quick Note\Note Lite 1.0\bin\x64\Debug\Quick Note.exe.config
+E:\Note\Quick Note\Note Lite 1.0\bin\x64\Debug\Quick Note.exe
+E:\Note\Quick Note\Note Lite 1.0\bin\x64\Debug\Quick Note.pdb
+E:\Note\Quick Note\Note Lite 1.0\bin\x64\Debug\Quick Note.xml
+E:\Note\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick_Note.Main_frm.resources
+E:\Note\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick_Note.More_Frm.resources
+E:\Note\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick_Note.Resources.resources
+E:\Note\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick Note.vbproj.GenerateResource.Cache
+E:\Note\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick Note.exe
+E:\Note\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick Note.xml
+E:\Note\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick Note.pdb
+D:\The Note Applications\Quick Note\Note Lite 1.0\bin\x64\Debug\Quick Note.exe.config
+D:\The Note Applications\Quick Note\Note Lite 1.0\bin\x64\Debug\Quick Note.exe
+D:\The Note Applications\Quick Note\Note Lite 1.0\bin\x64\Debug\Quick Note.pdb
+D:\The Note Applications\Quick Note\Note Lite 1.0\bin\x64\Debug\Quick Note.xml
+D:\The Note Applications\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick Note.vbprojAssemblyReference.cache
+D:\The Note Applications\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick_Note.Main_frm.resources
+D:\The Note Applications\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick_Note.Frm_Backg.resources
+D:\The Note Applications\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick_Note.More_Frm.resources
+D:\The Note Applications\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick_Note.Resources.resources
+D:\The Note Applications\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick Note.vbproj.GenerateResource.cache
+D:\The Note Applications\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick Note.vbproj.CoreCompileInputs.cache
+D:\The Note Applications\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick Note.exe
+D:\The Note Applications\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick Note.xml
+D:\The Note Applications\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick Note.pdb
+C:\Users\aharn\Documents\Quick Note\Note Lite 1.0\bin\x64\Debug\Quick Note.exe.config
+C:\Users\aharn\Documents\Quick Note\Note Lite 1.0\bin\x64\Debug\Quick Note.exe
+C:\Users\aharn\Documents\Quick Note\Note Lite 1.0\bin\x64\Debug\Quick Note.pdb
+C:\Users\aharn\Documents\Quick Note\Note Lite 1.0\bin\x64\Debug\Quick Note.xml
+C:\Users\aharn\Documents\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick Note.vbprojAssemblyReference.cache
+C:\Users\aharn\Documents\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick_Note.Main_frm.resources
+C:\Users\aharn\Documents\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick_Note.Frm_Backg.resources
+C:\Users\aharn\Documents\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick_Note.More_Frm.resources
+C:\Users\aharn\Documents\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick_Note.Resources.resources
+C:\Users\aharn\Documents\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick Note.vbproj.GenerateResource.cache
+C:\Users\aharn\Documents\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick Note.vbproj.CoreCompileInputs.cache
+C:\Users\aharn\Documents\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick Note.exe
+C:\Users\aharn\Documents\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick Note.xml
+C:\Users\aharn\Documents\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick Note.pdb
+C:\Users\aharn\Documents\QuickNoteClassic\Quick Note\Note Lite 1.0\bin\x64\Debug\Quick Note.exe.config
+C:\Users\aharn\Documents\QuickNoteClassic\Quick Note\Note Lite 1.0\bin\x64\Debug\Quick Note.exe
+C:\Users\aharn\Documents\QuickNoteClassic\Quick Note\Note Lite 1.0\bin\x64\Debug\Quick Note.pdb
+C:\Users\aharn\Documents\QuickNoteClassic\Quick Note\Note Lite 1.0\bin\x64\Debug\Quick Note.xml
+C:\Users\aharn\Documents\QuickNoteClassic\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick Note.vbprojAssemblyReference.cache
+C:\Users\aharn\Documents\QuickNoteClassic\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick_Note.Main_frm.resources
+C:\Users\aharn\Documents\QuickNoteClassic\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick_Note.Frm_Backg.resources
+C:\Users\aharn\Documents\QuickNoteClassic\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick_Note.More_Frm.resources
+C:\Users\aharn\Documents\QuickNoteClassic\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick_Note.Resources.resources
+C:\Users\aharn\Documents\QuickNoteClassic\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick Note.vbproj.GenerateResource.cache
+C:\Users\aharn\Documents\QuickNoteClassic\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick Note.vbproj.CoreCompileInputs.cache
+C:\Users\aharn\Documents\QuickNoteClassic\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick Note.exe
+C:\Users\aharn\Documents\QuickNoteClassic\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick Note.xml
+C:\Users\aharn\Documents\QuickNoteClassic\Quick Note\Note Lite 1.0\obj\x64\Debug\Quick Note.pdb

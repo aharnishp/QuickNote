@@ -1,0 +1,14 @@
+D:\The Note Applications\Quick Note\Note Lite 1.0\bin\x64\Release\Quick Note.exe.config
+D:\The Note Applications\Quick Note\Note Lite 1.0\bin\x64\Release\Quick Note.exe
+D:\The Note Applications\Quick Note\Note Lite 1.0\bin\x64\Release\Quick Note.pdb
+D:\The Note Applications\Quick Note\Note Lite 1.0\bin\x64\Release\Quick Note.xml
+D:\The Note Applications\Quick Note\Note Lite 1.0\obj\x64\Release\Quick_Note.Main_frm.resources
+D:\The Note Applications\Quick Note\Note Lite 1.0\obj\x64\Release\Quick_Note.Frm_Backg.resources
+D:\The Note Applications\Quick Note\Note Lite 1.0\obj\x64\Release\Quick_Note.More_Frm.resources
+D:\The Note Applications\Quick Note\Note Lite 1.0\obj\x64\Release\Quick_Note.Resources.resources
+D:\The Note Applications\Quick Note\Note Lite 1.0\obj\x64\Release\Quick Note.vbproj.GenerateResource.cache
+D:\The Note Applications\Quick Note\Note Lite 1.0\obj\x64\Release\Quick Note.vbproj.CoreCompileInputs.cache
+D:\The Note Applications\Quick Note\Note Lite 1.0\obj\x64\Release\Quick Note.exe
+D:\The Note Applications\Quick Note\Note Lite 1.0\obj\x64\Release\Quick Note.xml
+D:\The Note Applications\Quick Note\Note Lite 1.0\obj\x64\Release\Quick Note.pdb
+D:\The Note Applications\Quick Note\Note Lite 1.0\obj\x64\Release\Quick Note.vbprojAssemblyReference.cache

@@ -1,0 +1,4 @@
+E:\Note\Note Lite 1.0\Note Lite 1.0\obj\Debug\Note_Speed.Main_frm.resources
+E:\Note\Note Lite 1.0\Note Lite 1.0\obj\Debug\Note_Speed.More_Frm.resources
+E:\Note\Note Lite 1.0\Note Lite 1.0\obj\Debug\Note_Speed.Resources.resources
+E:\Note\Note Lite 1.0\Note Lite 1.0\obj\Debug\Note Speed.vbproj.GenerateResource.Cache

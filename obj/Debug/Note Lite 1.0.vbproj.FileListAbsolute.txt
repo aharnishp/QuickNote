@@ -1,0 +1,24 @@
+C:\Users\aharnishpithva\AppData\Local\Temporary Projects\Note Lite 1.0\bin\Debug\Note Lite 1.0.exe.config
+C:\Users\aharnishpithva\AppData\Local\Temporary Projects\Note Lite 1.0\bin\Debug\Note Lite 1.0.exe
+C:\Users\aharnishpithva\AppData\Local\Temporary Projects\Note Lite 1.0\bin\Debug\Note Lite 1.0.pdb
+C:\Users\aharnishpithva\AppData\Local\Temporary Projects\Note Lite 1.0\bin\Debug\Note Lite 1.0.xml
+C:\Users\aharnishpithva\AppData\Local\Temporary Projects\Note Lite 1.0\obj\Debug\Note Lite 1.0.vbprojResolveAssemblyReference.cache
+C:\Users\aharnishpithva\AppData\Local\Temporary Projects\Note Lite 1.0\obj\Debug\Note_Lite_1._0.Main_frm.resources
+C:\Users\aharnishpithva\AppData\Local\Temporary Projects\Note Lite 1.0\obj\Debug\Note_Lite_1._0.Resources.resources
+C:\Users\aharnishpithva\AppData\Local\Temporary Projects\Note Lite 1.0\obj\Debug\Note Lite 1.0.vbproj.GenerateResource.Cache
+C:\Users\aharnishpithva\AppData\Local\Temporary Projects\Note Lite 1.0\obj\Debug\Note Lite 1.0.exe
+C:\Users\aharnishpithva\AppData\Local\Temporary Projects\Note Lite 1.0\obj\Debug\Note Lite 1.0.xml
+C:\Users\aharnishpithva\AppData\Local\Temporary Projects\Note Lite 1.0\obj\Debug\Note Lite 1.0.pdb
+C:\Users\aharnishpithva\AppData\Local\Temporary Projects\Note Lite 1.0\obj\Debug\Note_Lite_1._0.More_Frm.resources
+E:\Note\Note Lite 1.0\Note Lite 1.0\bin\Debug\Note Lite 1.0.exe.config
+E:\Note\Note Lite 1.0\Note Lite 1.0\bin\Debug\Note Lite 1.0.exe
+E:\Note\Note Lite 1.0\Note Lite 1.0\bin\Debug\Note Lite 1.0.pdb
+E:\Note\Note Lite 1.0\Note Lite 1.0\bin\Debug\Note Lite 1.0.xml
+E:\Note\Note Lite 1.0\Note Lite 1.0\obj\Debug\Note Lite 1.0.vbprojResolveAssemblyReference.cache
+E:\Note\Note Lite 1.0\Note Lite 1.0\obj\Debug\Note_Lite_1._0.Main_frm.resources
+E:\Note\Note Lite 1.0\Note Lite 1.0\obj\Debug\Note_Lite_1._0.More_Frm.resources
+E:\Note\Note Lite 1.0\Note Lite 1.0\obj\Debug\Note_Lite_1._0.Resources.resources
+E:\Note\Note Lite 1.0\Note Lite 1.0\obj\Debug\Note Lite 1.0.vbproj.GenerateResource.Cache
+E:\Note\Note Lite 1.0\Note Lite 1.0\obj\Debug\Note Lite 1.0.exe
+E:\Note\Note Lite 1.0\Note Lite 1.0\obj\Debug\Note Lite 1.0.xml
+E:\Note\Note Lite 1.0\Note Lite 1.0\obj\Debug\Note Lite 1.0.pdb

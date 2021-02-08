@@ -1,0 +1,12 @@
+E:\Note\Note Lite 1.0\Note Lite 1.0\obj\Debug\Note Lite 10.vbprojResolveAssemblyReference.cache
+E:\Note\Note Lite 1.0\Note Lite 1.0\obj\Debug\Note_Lite_10.Main_frm.resources
+E:\Note\Note Lite 1.0\Note Lite 1.0\obj\Debug\Note_Lite_10.More_Frm.resources
+E:\Note\Note Lite 1.0\Note Lite 1.0\obj\Debug\Note_Lite_10.Resources.resources
+E:\Note\Note Lite 1.0\Note Lite 1.0\obj\Debug\Note Lite 10.vbproj.GenerateResource.Cache
+E:\Note\Note Lite 1.0\Note Lite 1.0\bin\Debug\Note Lite 10.exe.config
+E:\Note\Note Lite 1.0\Note Lite 1.0\bin\Debug\Note Lite 10.exe
+E:\Note\Note Lite 1.0\Note Lite 1.0\bin\Debug\Note Lite 10.pdb
+E:\Note\Note Lite 1.0\Note Lite 1.0\bin\Debug\Note Lite 10.xml
+E:\Note\Note Lite 1.0\Note Lite 1.0\obj\Debug\Note Lite 10.exe
+E:\Note\Note Lite 1.0\Note Lite 1.0\obj\Debug\Note Lite 10.xml
+E:\Note\Note Lite 1.0\Note Lite 1.0\obj\Debug\Note Lite 10.pdb
